@@ -51,7 +51,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 [Instagram]
 arch = "arm64-v8a"
 build-mode = "apk"
-uptodown-url = "https://instagram.en.uptodown.com/android"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 #apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 #archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.instagram.android"
 version = "379.0.0.41.80"
