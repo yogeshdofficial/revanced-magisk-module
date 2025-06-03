@@ -42,5 +42,7 @@ parallel-jobs = 1
 # apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 
 [Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.instagram.android"
+uptodown-url = "https://instagram.en.uptodown.com/android"
+#apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+#archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.instagram.android"
+
