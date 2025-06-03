@@ -33,10 +33,6 @@ build-mode = "apk"
 dpi = "120-640dpi"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
-[Spotify]
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
-
 [TikTok]
 enabled = false
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
