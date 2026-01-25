@@ -7,22 +7,22 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [Instagram]
-arch = "arm64-v8a"
+# arch = "arm64-v8a"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.uptodown.com/android"
 
 [Music]
-arch = "arm64-v8a"
+# arch = "arm64-v8a"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [YouTube]
-arch = "arm64-v8a"
+# arch = "arm64-v8a"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [Reddit]
-arch = "arm64-v8a"
+# arch = "arm64-v8a"
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
