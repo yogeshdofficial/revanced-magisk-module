@@ -23,6 +23,8 @@ dpi = "nodpi anydpi 120-640dpi"      # dpi packages to be searched in order. def
 
 patches-source = "revanced/revanced-patches" # where to fetch patches bundle from. default: "revanced/revanced-patches"
 cli-source = "ReVanced/revanced-cli"             # where to fetch cli from. default: "ReVanced/revanced-cli"
+# Use "gitlab:namespace/project" prefix to fetch from GitLab instead of GitHub (e.g. "gitlab:someuser/revanced-patches")
+# Set GITLAB_TOKEN env variable to authenticate with GitLab (required for private repositories)
 # options like cli-source can also set per app
 rv-brand = "ReVanced Extended" # rebrand from 'ReVanced' to something different. default: "ReVanced"
 
